@@ -1,7 +1,7 @@
 Pathfinding Algorithm Visualizer
 
 
-live demo link:
+live demo link:https://jishankhan12.github.io/shortestpathvisualizer/
 
 📋 Project Overview
 
