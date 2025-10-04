@@ -9,6 +9,8 @@ An interactive web application that visualizes various pathfinding algorithms in
 
 Users can set start/end points, draw obstacles, and watch how different algorithms find paths through a dynamic grid system.
 
+screenshots:
+<img width="1433" height="805" alt="image" src="https://github.com/user-attachments/assets/39b45940-9a51-438e-acbd-601b1981fb70" />
 
 
 🚀 Features
