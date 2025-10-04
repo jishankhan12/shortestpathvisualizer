@@ -12,6 +12,8 @@ Users can set start/end points, draw obstacles, and watch how different algorith
 screenshots:
 <img width="1433" height="805" alt="image" src="https://github.com/user-attachments/assets/39b45940-9a51-438e-acbd-601b1981fb70" />
 
+After finding shortest path:
+<img width="1433" height="805" alt="image" src="https://github.com/user-attachments/assets/63e1ae16-269f-45a1-9450-09d60969e821" />
 
 🚀 Features
 
